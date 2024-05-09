@@ -1,0 +1,7 @@
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\learningapp.exe
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\appsettings.json
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\learningapp.dll
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\sherp\OneDrive\Desktop\Az-204\1RunSimpleASP.netappliation\learningapp\bin\Publish\learningapp.pdb
